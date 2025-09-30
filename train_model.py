@@ -26,7 +26,7 @@ def train_model():
     print(classification_report(y_test, y_pred))
 
     joblib.dump(model, "predictive_model.pkl")
-    print("✅ Model saved as predictive_model.pkl")
+    print(" Model saved as predictive_model.pkl")
 
 if __name__ == "__main__":
     train_model()
