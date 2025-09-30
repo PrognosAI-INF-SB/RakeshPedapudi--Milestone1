@@ -1,8 +1,3 @@
-Alright 😄 — I’ll make your **README.md** professional, detailed, and attractive so that anyone who visits your repo instantly understands your project and gets impressed.
-
-Here’s an upgraded **README.md** for your project:
-
----
 
 # PrognosAI: AI-Driven Predictive Maintenance
 
