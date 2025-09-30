@@ -142,6 +142,3 @@ I’m **Rakesh Pedapudi**, a passionate AI & Data Science enthusiast. This proje
 
 ---
 
-If you want, I can now **design a visually appealing README template** with badges, gifs, diagrams, and a professional project logo so your GitHub repo becomes eye-catching and highly attractive to recruiters and contributors.
-
-Do you want me to do that?
