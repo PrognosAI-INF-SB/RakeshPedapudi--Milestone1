@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 
 def generate_sensor_data(n=500):
-    
     np.random.seed(42)
     time = pd.date_range(start="2025-01-01", periods=n, freq="h")
     temperature = 50 + np.random.normal(0, 5, n).cumsum()
