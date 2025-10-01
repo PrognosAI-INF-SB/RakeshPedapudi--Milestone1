@@ -1,4 +1,5 @@
 
+
 # PrognosAI: AI-Driven Predictive Maintenance
 
 ![Project Banner](https://img.shields.io/badge/Status-Active-green) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
