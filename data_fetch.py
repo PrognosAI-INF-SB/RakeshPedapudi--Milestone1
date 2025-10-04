@@ -7,7 +7,6 @@ def generate_sensor_data(n=500):
     temperature = 50 + np.random.normal(0, 5, n).cumsum()
     vibration = 20 + np.random.normal(0, 2, n).cumsum()
     pressure = 100 + np.random.normal(0, 3, n).cumsum()
-
     
     df = pd.DataFrame({"time": time, "temperature": temperature, "vibration": vibration, "pressure": pressure})
     df.to_csv("sensor_data.csv", index=False)
