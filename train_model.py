@@ -9,6 +9,7 @@ def create_labels(df):
     # Label = 1 if any sensor goes beyond threshold, else 0
     df["label"] = ((df["temperature"] > 80) | (df["vibration"] > 40) | (df["pressure"] > 160)).astype(int)
     return df
+    
 def train_model():
     df = pd.read_csv("sensor_data.csv")
     df = create_labels(df)
