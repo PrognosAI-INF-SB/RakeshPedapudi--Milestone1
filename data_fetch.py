@@ -12,5 +12,7 @@ def generate_sensor_data(n=500):
     df.to_csv("sensor_data.csv", index=False)
     print(" Sensor data saved to sensor_data.csv")
 
+
+
 if __name__ == "__main__":
     generate_sensor_data()
