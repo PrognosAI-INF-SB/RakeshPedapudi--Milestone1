@@ -8,6 +8,8 @@
 
 ## 📌 Project Overview
 
+
+
 **PrognosAI** is an advanced AI-based predictive maintenance system designed to revolutionize industrial machinery management. Using **time-series sensor data**, this project estimates the **Remaining Useful Life (RUL)** of critical machinery to reduce downtime, improve efficiency, and cut maintenance costs.
 
 This system leverages cutting-edge deep learning models (LSTM & GRU) trained on real-world datasets, enabling data-driven, proactive maintenance scheduling for industries worldwide.
